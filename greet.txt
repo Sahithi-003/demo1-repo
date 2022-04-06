@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 GOOD MORNING GOOD AFTERNOON HII HELLO
+=======
+GOOD MORNING GOOD AFTERNOON
+>>>>>>> parent of 908142d (commiting)
