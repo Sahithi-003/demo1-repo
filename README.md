@@ -13,4 +13,5 @@ x*y//
 #Div
 x/y//
 
-s
+#rem
+x%y//

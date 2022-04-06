@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 GOOD MORINING
+=======
+GOOD MORINING HELLO
+>>>>>>> master
