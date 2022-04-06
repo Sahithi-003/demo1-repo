@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 hello checking;;
 hey
+=======
+hello checking;; added new text
+hey
+one 1
+Two 2
+Three 3
+four 45
+>>>>>>> f3ee1ae (check)

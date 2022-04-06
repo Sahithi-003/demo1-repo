@@ -1,1 +1,1 @@
-Proceed even if the index or the working tree differs from HEAD. Both the index and working tree are restored to match the switching target. If --recurse-submodules is specified, submodule content is also restored to match the switching target. This is used to throw away local changes.
+Greeting lib
